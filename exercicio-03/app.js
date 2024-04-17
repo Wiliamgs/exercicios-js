@@ -5,7 +5,6 @@
 - Linke este arquivo, app.js;
 - Inicie o seu servidor local e abra o console do browser.
 */
-
 /*
 02 - Armazene um array vazio em uma let "brazilianFoods";
 */

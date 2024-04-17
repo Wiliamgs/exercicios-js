@@ -1,6 +1,6 @@
 console.log("Aula de Strings")
 
-const email = 'cruz.wiliam@grupotorun.com'
+    const email = 'cruz.wiliam@grupotorun.com'
 console.log(email)
 
 const FirstName = "Wiliam"
