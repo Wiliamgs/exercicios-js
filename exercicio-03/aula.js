@@ -4,14 +4,15 @@
         heroes[2] = "SpiderMan"
         const ages = [31, 12, 40, 25]
 
-    console.log(ages)
+    //console.log(ages)
 
-    console.log(heroes)
+    //console.log(heroes)
 
     //Metodos
-        const joinHeroes = heroes.join()
         const indexOf25 = ages.indexOf("25")
+        const joinHeroes = heroes.join()
         const moreHeroes = heroes.concat (["Superman"])
+        const pushToHeroes = heroes.push('Ciclops', 'Hulk')
+        const popHeroes = heroes.pop()
 
-    console.log(moreHeroes)
-
+    //console.log(heroes)

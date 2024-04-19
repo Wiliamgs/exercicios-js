@@ -8,4 +8,3 @@ const LastName = "Cruz"
 
 const fullName = FirstName + " " + LastName
 console.log(fullName)
-
